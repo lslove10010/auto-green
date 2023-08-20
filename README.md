@@ -1,4 +1,8 @@
+借助大佬的脚本实现choreo定时部署保活
+
 # auto-green
+
+
 
 [![Build Status](https://github.com/LiangLliu/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/LiangLliu/auto-green/actions)
 
